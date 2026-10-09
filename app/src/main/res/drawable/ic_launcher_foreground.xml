@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="0.8"
+        android:scaleY="0.8">
+        <!-- Main Chat Bubble -->
+        <path
+            android:fillColor="#00C896"
+            android:pathData="M30,28h48c6.6,0 12,5.4 12,12v26c0,6.6 -5.4,12 -12,12H44l-14,10v-10h-2c-6.6,0 -12,-5.4 -12,-12V40c0,-6.6 5.4,-12 12,-12z" />
+        <!-- Electric / Bang Bolt Accent (Stylized energy mark) -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M56,36 L43,53 h10 l-4,15 15,-18 h-10 z" />
+    </group>
+</vector>

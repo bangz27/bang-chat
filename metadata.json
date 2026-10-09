@@ -1,0 +1,6 @@
+{
+  "name": "Bang Chat",
+  "description": "Real-time human-to-human messaging application with instant chat, group conversations, media sharing, and presence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
